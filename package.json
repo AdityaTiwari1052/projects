@@ -1,4 +1,5 @@
 {
+  "homepage": "https://AdityaTiwari1052.github.io/projects",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -28,3 +29,4 @@
     "vite": "^6.2.0"
   }
 }
+
