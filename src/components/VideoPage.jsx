@@ -16,7 +16,7 @@ const VideoPage = () => {
     const roomID = sanitizeRoomID(id);
 
     let myMeeting = async (element) => {
-        const appID = App_ID;
+        const appID = APP_ID;
         const serverSecret = SERVER_SECRET;
         const kitToken = ZegoUIKitPrebuilt.generateKitTokenForTest(
             appID, 
